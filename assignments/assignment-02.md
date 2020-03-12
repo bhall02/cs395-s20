@@ -20,4 +20,4 @@ If you are ineligible for consideration by VSGC, we can mututally arrive at an a
 
 * I will work with the students individually, both in-class and off-line, to help craft your submissions.  For now, use Google Docs for collaborative editing/feedback (remember to allow "rhodewarriors@gmail.com" to access your docs). 
 
-* Submissions will be via a pull request, with the following path ".../cs395-s20/submissions/YOURACCTNAME/assignment-01/".  
+* Submissions will be via a pull request, with the following path ".../cs395-s20/submissions/YOURACCTNAME/assignment-02/".  
